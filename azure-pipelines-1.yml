@@ -46,5 +46,5 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'PAVR RDC Internal Subscription(37ef8c03-e8ac-4ea3-91dd-f5ab71cd09d3)'
     appType: 'webApp'
-    WebAppName: '"$(web_prefix)-$(web_site)-$(web_environment)'
+    WebAppName: 'optdemoconp-oprobstv-optdev'
     packageForLinux: '$(Pipeline.Workspace)/**/*.zip'
