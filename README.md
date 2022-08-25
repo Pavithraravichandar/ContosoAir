@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/pavr/OptionsIT/_apis/build/status/Pavithraravichandar.ContosoAir?branchName=master)](https://dev.azure.com/pavr/OptionsIT/_build/latest?definitionId=184&branchName=master)
 
 # Microsoft.Github CI Demo
 
